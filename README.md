@@ -1,5 +1,3 @@
-HI MY NAME IS DIPU MONDOL  
+# iam dipu mondol
 
-I AMJUST WATING TO BE A  
-
-GREAT PROGRAMMER
+H<sub>2</sub>O
