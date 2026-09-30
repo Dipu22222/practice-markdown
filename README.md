@@ -1,7 +1,7 @@
 # iam dipu mondol
 
 H<sub>2</sub>O  
-```
+```py
 import random
 
 secret_number = random.randint(1, 20)
